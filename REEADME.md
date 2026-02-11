@@ -25,10 +25,15 @@ Validar os fluxos principais da aplicação DemoQA (UI) e da API pública Escuel
 
 cypress
 ├── e2e
+
 │ ├── ui
+
 │ └── api
+
 ├── fixtures
+
 ├── schemas
+
 ├── support
 
 
