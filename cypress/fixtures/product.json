@@ -1,0 +1,7 @@
+{
+  "title": "Produto QA Test",
+  "price": 100,
+  "description": "Produto criado via automação",
+  "categoryId": 1,
+  "images": ["https://placeimg.com/640/480/any"]
+}

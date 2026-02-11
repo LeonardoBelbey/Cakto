@@ -1,0 +1,18 @@
+# Node
+node_modules
+
+# Cypress reports
+cypress/reports
+final-report
+mochawesome.json
+
+# Cypress videos & screenshots
+cypress/videos
+cypress/screenshots
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env
+.env
