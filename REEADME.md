@@ -24,6 +24,7 @@ Validar os fluxos principais da aplicação DemoQA (UI) e da API pública Escuel
 ## Estrutura do Projeto
 
 cypress
+
 ├── e2e
 
 │ ├── ui
